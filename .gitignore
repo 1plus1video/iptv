@@ -1,32 +1,20 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#EXTM3U
+#PLAYLIST:iptvmate.com
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/1plus1-crop-w50.svg" ",1+1 HD 
+https://live-k2305-kbp.1plus1.video/live/1629892200/GWNBCtaOjuwY-XdVLKtzNA/184723/smil:184723.smil/chunklist_b4628000.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/2plus2-crop-w50.svg" ",2+2 HD 
+https://hls.sweet.tv/stream/sx2cw3ed4wqiuy4rzxwu8rpk3fv7zk78txrdxm7f2bgaaavnzjnqmqhw4hqc652saymfjpnq5n6jjf4vybma4gxmnhhjkwsrb6td65e78svmk2kmwa8fxuj64qjhawyzv8gex9dxy3ms====.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/tet-crop-w50.svg" ",ТЕТ HD 
+https://hls.sweet.tv/stream/gjnhwn3a34qtr8pc8mqzv9n7az62utmyvimuugbp4wvys5tm3sye84few7tb94wsj533vwbwzwktu5ixk3gy34tqccmi9m4trktjr23gai8ssnhea6ug5xfaa5e6qgfeb3gdq9f9cnfa====.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/paramountcomedy-crop-w50.svg" ",Paramount Comedy
+https://hls.sweet.tv/stream/4k32mjhkky476r6igqbusbqa7ixdrvxc2yd5z99pz79bckaf4eeadwmyj4gf2nnmeaj6nnq8jwkgwn2e2ve6daddxezaptxqcsb7rykbgjpsgpuihubumjcvw2zupf2ty28ri6an92t9eeei.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/plusplus-crop-w50.svg" ",ПЛЮСПЛЮС HD
+https://hls.sweet.tv/stream/9qexnmkcbyug8ms9v5nme3c3mrf9knetngme3tubxkuc3wn9nmypifgfys37cfwjqiux8fidkniikw6dh27ttd8km9nhpbvunnzyt9nqatb2c6k9di7dv5fras9szwpyypu4yxjnzdgefkjr.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/kvartaltv-crop-w50.svg" ",Квартал ТВ
+https://hls.sweet.tv/stream/fz4q4ih7b56gy685df2hwt994555875fwigwvumyi6z73wpeuktsaphzuje547nvhcksj9kq2az2c9u5gqymg5i59kannn9ymedmydq923dic7mhdgjy9tabwwqayvy4sx22zerbghuvx9tx.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/bigudi-crop-w50.svg" ",Бігуді 
+https://hls.sweet.tv/stream/gprr7e6cqgchcwcc82mf9759h8ytzz37dk3nv4y8fcrwa2vpmkyzzimruw77zhbx4bgrjbbaaihwxt3g57ydb6bzbhc36hzdhhkicbuqy5m9twew9f93m9n8tqzrr7stgcbbaqjem2tsrrgu.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/sport-crop-w50.svg" ",Спорт 
+https://live-k2305-kbp.1plus1.video/live/1630011900/Ez2UcFpg9O_GK06VOTSMWA/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:0 tvg-country="ua" tvg-logo="https://1plus1.video/static/img/svg/tvguide/uniantv-crop-w50.svg" ",Уніан ТВ HD 
+https://hls.sweet.tv/stream/svif8pzyxw9xrw23qe3z2ihwa4mrjixz6pf5jkgebpb466ff55a74xg6qfjkbsjve55xerccpk55wjr8k7jbdtr8bzpxa3rqvvz5up4aza2cbt8u4hcmgq3ysqqzz6hfevmdmhk64qb6q68x.m3u8
